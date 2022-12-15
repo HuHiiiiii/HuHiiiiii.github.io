@@ -1,0 +1,26 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>HuHi&#39;s invididual blog</title>
+        <link>https://huhiiiiii.github.io/</link>
+        <description>this is my invididual blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>HuHi2023237810@outlook.com (HuHi)</managingEditor>
+            <webMaster>HuHi2023237810@outlook.com (HuHi)</webMaster><lastBuildDate>Wed, 14 Dec 2022 18:12:30 &#43;0800</lastBuildDate>
+            <atom:link href="https://huhiiiiii.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Linux大作业步骤</title>
+    <link>https://huhiiiiii.github.io/posts/second_post/</link>
+    <pubDate>Wed, 14 Dec 2022 18:12:30 &#43;0800</pubDate>
+    <author>HuHi</author>
+    <guid>https://huhiiiiii.github.io/posts/second_post/</guid>
+    <description><![CDATA[下载git： 配置git相关环境： 与远程仓库连接： 编写socket服务端： 编写socket客户端： 配置hugo相关环境： 开启hugo serve]]></description>
+</item>
+<item>
+    <title>Linux笔记</title>
+    <link>https://huhiiiiii.github.io/posts/first_post/</link>
+    <pubDate>Wed, 14 Dec 2022 11:01:32 &#43;0800</pubDate>
+    <author>HuHi</author>
+    <guid>https://huhiiiiii.github.io/posts/first_post/</guid>
+    <description><![CDATA[文件系统命令1 pwd 查看当前目录的绝对路径 cd 移动到当前/上一级/家目录 mkdir 创建一个目录 ls 列出目录和文件信息 rmdir 删除空目录 touch 创建空文件、更改文件时间 cp]]></description>
+</item>
+</channel>
+</rss>
